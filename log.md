@@ -1,30 +1,11 @@
 # 100 Days Of Code - Log
 
-### Day 0: February 30, 2016 (Example 1)
-##### (delete me or comment me out)
+### Motivation: I always struggled to start projects, even throughout my degree. I feel like I didn't learn as much as I should have during that time. Now I'm taking the time to learn on my own terms, without a timeline, without comparison, and detaching myself from the results I produce. I want to learn for fun again.
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+### Day 0: November 21, 2025
 
-**Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+**Today's Progress**: Began the Odin Project, started my 100 days of code
 
-**Link to work:** [Calculator App](http://www.example.com)
+**Thoughts:** I already have some experience in web development, but most of that was in high school and I haven't touched it much since. It's honestly embarassing that I don't have a portfolio website right now, but that will change very very soon. I want it to represent me and my personality well while showcasing all that I can do. 
 
-### Day 0: February 30, 2016 (Example 2)
-##### (delete me or comment me out)
-
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
-
-**Thoughts**: I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
-
-**Link(s) to work**: [Calculator App](http://www.example.com)
-
-
-### Day 1: June 27, Monday
-
-**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
-
-**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
-
-**Link(s) to work**
-1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
+**Link to work:** 
