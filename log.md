@@ -19,3 +19,11 @@ I always struggled to start projects, even throughout my degree. I feel like I d
 **Thoughts:** I think that the VSCode customization I did and some of the practice assignments I did were really helpful in rebuilding my confidence. It was small enough to be digestable but also challenging and I definitely learned a lot despite previously having some experience.
 
 **Link to work:** https://github.com/flin1/practice_site
+
+### Day 2: November 23, 2025
+
+**Today's Progress:** Working on Odin project again, working on the curriculum projects (etch-a-sketch)
+
+**Thoughts:** I feel like I'm starting to really look forward to doing this every day. I think the one thing that I'm scared of is losing momentum because of work or being too tired to do it. I think that the combo of Odin and this challenge has definitely made creating more fun for me though!
+
+**Link to work:** https://github.com/flin1/etch_a_sketch
