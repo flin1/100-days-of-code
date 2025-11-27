@@ -27,3 +27,35 @@ I always struggled to start projects, even throughout my degree. I feel like I d
 **Thoughts:** I feel like I'm starting to really look forward to doing this every day. I think the one thing that I'm scared of is losing momentum because of work or being too tired to do it. I think that the combo of Odin and this challenge has definitely made creating more fun for me though!
 
 **Link to work:** https://github.com/flin1/etch_a_sketch
+
+### Day 3: November 24, 2025
+
+**Today's Progress:** Was very tired, did not do anything 
+
+**Thoughts:** Flop day 1, gave myself grace for this one, but was really stressed out about losing my streak
+
+**Link to work:** 
+
+### Day 4: November 25, 2025
+
+**Today's Progress:** Had plans with friends, did not work on anything
+
+**Thoughts:** Flop day 2, I was really not in the mood to do more coding work especially after a day of work but I definitely could have fit it in if I tried
+
+**Link to work:** 
+
+### Day 5: November 26, 2025
+
+**Today's Progress:** No excuse for this one, played games instead
+
+**Thoughts:** Flop day 3, simply wasn't in the mood to work on the challenge, but I do plan to add days to the challenge to makeup for it
+
+**Link to work:** 
+
+### Day 2: November 27, 2025
+
+**Today's Progress:** Travel day for me, will be trying to dev on the plane
+
+**Thoughts:** 
+
+**Link to work:** 
