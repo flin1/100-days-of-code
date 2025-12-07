@@ -68,7 +68,7 @@ I always struggled to start projects, even throughout my degree. I feel like I d
 
 **Link to work:** 
 
-### Day 0: December 6th, 2025
+### Day 0: December 7th, 2025
 
 **Today's Progress:** Continued work on Intermediate HTML and CSS Odin curriculum
 

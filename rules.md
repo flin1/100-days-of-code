@@ -10,7 +10,7 @@
 
 #### Start Date
 
-December 6th, 2025
+December 7th, 2025
 
 #### End Date
 
