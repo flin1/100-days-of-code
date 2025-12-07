@@ -52,10 +52,26 @@ I always struggled to start projects, even throughout my degree. I feel like I d
 
 **Link to work:** 
 
-### Day 2: November 27, 2025
+### Day 6: November 27, 2025
 
-**Today's Progress:** Travel day for me, will be trying to dev on the plane
+**Today's Progress:** Travel day for me, will be trying to dev on the plane. Finished the Foundations course on Odin, made a basic calculator app
 
-**Thoughts:** 
+**Thoughts:** The edge cases really got me with this one. It definitely took me longer than an average project but glad I was able to work on something and get back on my streak.
+
+**Link to work:** https://github.com/flin1/basic_calculator
+
+### Day 7: November 28, 2025
+
+**Today's Progress:** Landed in Tokyo, work in the early morning + more Odin project content
+
+**Thoughts:** Moved on to the intermediate HTML and CSS section of the Odin Project, my goal is to get to the React lessons quickly so I can get started with my personal website. I want to build it with React over regular html and css for responsiveness and customization purposes. 
 
 **Link to work:** 
+
+### Day 0: December 6th, 2025
+
+**Today's Progress:** Continued work on Intermediate HTML and CSS Odin curriculum
+
+**Thoughts:** We're gonna reset this challenge because it's been busy recently with travel and catching up on work. I want to do this challenge well and right. Will update more later
+
+**Link to work:** https://github.com/flin1/100-days-of-code

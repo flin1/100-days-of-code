@@ -10,11 +10,11 @@
 
 #### Start Date
 
-November 21, 2025
+December 6th, 2025
 
 #### End Date
 
-February 28, 2026
+March 16th, 2026
 
 ## Additional Rules
 
